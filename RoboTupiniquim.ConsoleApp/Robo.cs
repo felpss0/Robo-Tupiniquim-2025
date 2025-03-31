@@ -2,7 +2,7 @@
 
 namespace RoboTupiniquim.ConsoleApp
 {
-    class Robo
+    public class Robo
     {
         public static int posicaoX;
         public static int posicaoY;

@@ -7,7 +7,14 @@
             GridNavegacao.LimiteDaArea();
 
             Robo.PosicaoInicialRobo();
+
+            MovimentoPorInput.InputUsuario();
             Robo.StatusRobo();
+
+
+            Console.ReadLine();
+            
+
         }
     }
 }

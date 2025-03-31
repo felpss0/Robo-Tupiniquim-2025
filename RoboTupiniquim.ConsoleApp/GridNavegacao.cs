@@ -1,7 +1,7 @@
 ﻿
 namespace RoboTupiniquim.ConsoleApp
 {
-    class GridNavegacao
+    public class GridNavegacao
     {
         public static int limiteX;
         public static int limiteY;
